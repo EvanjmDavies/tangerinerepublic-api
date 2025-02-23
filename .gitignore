@@ -1,0 +1,25 @@
+# VSCode stuff
+.prettierrc
+.editorconfig
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# dotenv environment variable files
+.env*
+
+# gatsby files
+.cache/
+public
+coverage/
+.jest-test-results.json
+src/gatsby-types.d.ts
+
+# storybook files
+storybook-static/
+
+# porting stuff for https
+.pem
+localhost-key.pem
+localhost.pem
